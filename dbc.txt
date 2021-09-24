@@ -1,0 +1,5 @@
+{
+  "1": "1",
+  "A":{"red":"redditit"},
+  "fiyat": {"main": "branch"}
+}
